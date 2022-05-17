@@ -351,17 +351,17 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟   _:c_
 ° ඬ⃟   _a_
 
-*<ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊/>*
+*« HERRAMIENTAS »*
 
-° ඬ⃟🛠️ _${usedPrefix}afk *<motivo>*_
-° ඬ⃟🛠️ _${usedPrefix}acortar *<enlace / link / url>*_
-° ඬ⃟🛠️ _${usedPrefix}calc *<operacion math>*_
-° ඬ⃟🛠️ _${usedPrefix}del *<respondre a mensaje del Bot>*_
-° ඬ⃟🛠️ _${usedPrefix}qrcode *<texto>*_
-° ඬ⃟🛠️ _${usedPrefix}readmore *<texto1| texto2>*_
-° ඬ⃟🛠️ _${usedPrefix}spamwa *<numero|texto|cantidad>*_
-° ඬ⃟🛠️ _${usedPrefix}styletext *<texto>*_
-° ඬ⃟🛠️ _${usedPrefix}traducir *<texto>*_
+° ඬ⃟   _${usedPrefix}afk *<motivo>*_
+° ඬ⃟   _${usedPrefix}acortar *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}calc *<operacion math>*_
+° ඬ⃟   _${usedPrefix}del *<respondre a mensaje del Bot>*_
+° ඬ⃟   _${usedPrefix}qrcode *<texto>*_
+° ඬ⃟   _${usedPrefix}readmore *<texto1| texto2>*_
+° ඬ⃟   _${usedPrefix}spamwa *<numero|texto|cantidad>*_
+° ඬ⃟   _${usedPrefix}styletext *<texto>*_
+° ඬ⃟   _${usedPrefix}traducir *<texto>*_
 
 *<ℝℙ𝔾 - 𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸/>*
 
