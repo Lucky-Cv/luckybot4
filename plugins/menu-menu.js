@@ -174,14 +174,14 @@ let str = `
 ° ඬ⃟   _${usedPrefix}hidetag *<texto>*_
 ° ඬ⃟   _${usedPrefix}simular *<welcome / bye / promote / demote>*_
 
-*<ℂ𝕆ℕ𝕍𝔼ℝ𝕋𝕀𝔻𝕆ℝ𝔼𝕊/>*
+*« CONVERTIDORES »*
 
-° ඬ⃟🧧 _${usedPrefix}toimg *<responde a un sticker>*_
-° ඬ⃟🧧 _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
-° ඬ⃟🧧 _${usedPrefix}toptt *<responde a un video / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tovideo *<responde a un audio>*_
-° ඬ⃟🧧 _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
-° ඬ⃟🧧 _${usedPrefix}tts es *<texto>*_
+° ඬ⃟   _${usedPrefix}toimg *<responde a un sticker>*_
+° ඬ⃟   _${usedPrefix}tomp3 *<responde a un video / nota de voz>*_
+° ඬ⃟   _${usedPrefix}toptt *<responde a un video / audio>*_
+° ඬ⃟   _${usedPrefix}tovideo *<responde a un audio>*_
+° ඬ⃟   _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
+° ඬ⃟   _${usedPrefix}tts es *<texto>*_
 
 *<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
 
