@@ -110,22 +110,22 @@ let str = `
 ° ඬ⃟   _${usedPrefix}verdad_
 ° ඬ⃟   _${usedPrefix}reto_
 
-*<𝔸ℂ𝕋𝕀𝕍𝔸ℝ 𝕆 𝔻𝔼𝕊𝔸ℂ𝕋𝕀𝕍𝔸ℝ/>*
+*« ACTIVAR O DESACTIVAR »*
 
-° ඬ⃟☑️ _${usedPrefix}enable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}disable *welcome*_
-° ඬ⃟☑️ _${usedPrefix}enable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}disable *modohorny*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink*_
-° ඬ⃟☑️ _${usedPrefix}enable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}disable *antilink2*_
-° ඬ⃟☑️ _${usedPrefix}enable *detect*_
-° ඬ⃟☑️ _${usedPrefix}disable *detect*_
-° ඬ⃟☑️ _${usedPrefix}enable *audios*_
-° ඬ⃟☑️ _${usedPrefix}disable *audios*_
-° ඬ⃟☑️ _${usedPrefix}enable *autosticker*_
-° ඬ⃟☑️ _${usedPrefix}disable *autosticker*_
+° ඬ⃟   _${usedPrefix}enable *welcome*_
+° ඬ⃟   _${usedPrefix}disable *welcome*_
+° ඬ⃟   _${usedPrefix}enable *modohorny*_
+° ඬ⃟   _${usedPrefix}disable *modohorny*_
+° ඬ⃟   _${usedPrefix}enable *antilink*_
+° ඬ⃟   _${usedPrefix}disable *antilink*_
+° ඬ⃟   _${usedPrefix}enable *antilink2*_
+° ඬ⃟   _${usedPrefix}disable *antilink2*_
+° ඬ⃟   _${usedPrefix}enable *detect*_
+° ඬ⃟   _${usedPrefix}disable *detect*_
+° ඬ⃟   _${usedPrefix}enable *audios*_
+° ඬ⃟   _${usedPrefix}disable *audios*_
+° ඬ⃟   _${usedPrefix}enable *autosticker*_
+° ඬ⃟   _${usedPrefix}disable *autosticker*_
 
 *<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
 
