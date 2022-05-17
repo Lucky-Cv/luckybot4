@@ -300,13 +300,13 @@ let str = `
 ° ඬ⃟   _${usedPrefix}next_
 ° ඬ⃟   _${usedPrefix}leave_
 
-*<𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊/>*
+*« BUSCADORES »*
 
-° ඬ⃟🔍 _${usedPrefix}animeinfo *<texto>*_
-° ඬ⃟🔍 _${usedPrefix}google *<texto>*_
-° ඬ⃟🔍 _${usedPrefix}letra *<texto>*_
-° ඬ⃟🔍 _${usedPrefix}wikipedia *<texto>*_
-° ඬ⃟🔍 _${usedPrefix}ytsearch *<texto>*_
+° ඬ⃟   _${usedPrefix}animeinfo *<texto>*_
+° ඬ⃟   _${usedPrefix}google *<texto>*_
+° ඬ⃟   _${usedPrefix}letra *<texto>*_
+° ඬ⃟   _${usedPrefix}wikipedia *<texto>*_
+° ඬ⃟   _{usedPrefix}ytsearch *<texto>*_
 
 *<𝔸𝕌𝔻𝕀𝕆𝕊/>* 
 *- 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)* 
