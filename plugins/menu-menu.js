@@ -183,16 +183,16 @@ let str = `
 ° ඬ⃟   _${usedPrefix}tourl *<responde a un video / imagen / audio>*_
 ° ඬ⃟   _${usedPrefix}tts es *<texto>*_
 
-*<𝔼𝔽𝔼ℂ𝕋𝕆𝕊 𝕐 𝕃𝕆𝔾𝕆𝕊/>*
+*« EFECTOS Y LOGOS »*
 
-° ඬ⃟🖍️ _${usedPrefix}logos *<efecto> <texto>*_
-° ඬ⃟🖍️ _${usedPrefix}simpcard *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}hornycard *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}lolice *<@tag>*_
-° ඬ⃟🖍️ _${usedPrefix}ytcomment *<texto>*_
-° ඬ⃟🖍️ _${usedPrefix}itssostupid_
-° ඬ⃟🖍️ _${usedPrefix}pixelar_
-° ඬ⃟🖍️ _${usedPrefix}blur_
+° ඬ⃟   _${usedPrefix}logos *<efecto> <texto>*_
+° ඬ⃟   _${usedPrefix}simpcard *<@tag>*_
+° ඬ⃟   _${usedPrefix}hornycard *<@tag>*_
+° ඬ⃟   _${usedPrefix}lolice *<@tag>*_
+° ඬ⃟   _${usedPrefix}ytcomment *<texto>*_
+° ඬ⃟   _${usedPrefix}itssostupid_
+° ඬ⃟   _${usedPrefix}pixelar_
+° ඬ⃟   _${usedPrefix}blur_
 
 *<ℝ𝔸ℕ𝔻𝕆𝕄/>*
 
