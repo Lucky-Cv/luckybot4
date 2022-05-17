@@ -294,11 +294,11 @@ let str = `
 ° ඬ⃟   _${usedPrefix}smooth_
 ° ඬ⃟   _${usedPrefix}tupai_
 
-*<ℂℍ𝔸𝕋 𝔸ℕ𝕆ℕ𝕀𝕄𝕆/>*
+*« CHAT ANÓNIMO »*
 
-° ඬ⃟📳 _${usedPrefix}start_
-° ඬ⃟📳 _${usedPrefix}next_
-° ඬ⃟📳 _${usedPrefix}leave_
+° ඬ⃟   _${usedPrefix}start_
+° ඬ⃟   _${usedPrefix}next_
+° ඬ⃟   _${usedPrefix}leave_
 
 *<𝔹𝕌𝕊ℂ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
