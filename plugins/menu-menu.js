@@ -308,7 +308,7 @@ let str = `
 ° ඬ⃟   _${usedPrefix}wikipedia *<texto>*_
 ° ඬ⃟   _{usedPrefix}ytsearch *<texto>*_
 
-*<𝔸𝕌𝔻𝕀𝕆𝕊/>* 
+*« BUSCADORES »* 
 *- 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)* 
 _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
