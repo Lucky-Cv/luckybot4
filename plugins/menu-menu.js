@@ -363,21 +363,21 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟   _${usedPrefix}styletext *<texto>*_
 ° ඬ⃟   _${usedPrefix}traducir *<texto>*_
 
-*<ℝℙ𝔾 - 𝕃𝕀𝕄𝕀𝕋𝔼𝕊 - 𝔼ℂ𝕆ℕ𝕆𝕄𝕀𝔸/>*
+*<« RPG - LÍMITES - ECONOMÍA »*
 
-° ඬ⃟💵 _${usedPrefix}balance_
-° ඬ⃟💵 _${usedPrefix}claim_
-° ඬ⃟💵 _${usedPrefix}top_
-° ඬ⃟💵 _${usedPrefix}levelup_
-° ඬ⃟💵 _${usedPrefix}myns_
-° ඬ⃟💵 _${usedPrefix}perfil_
-° ඬ⃟💵 _${usedPrefix}work_
-° ඬ⃟💵 _${usedPrefix}minar_
-° ඬ⃟💵 _${usedPrefix}buy_
-° ඬ⃟💵 _${usedPrefix}buyall_
-° ඬ⃟💵 _${usedPrefix}transfer *<tipo> <cantidad> <@tag>*_
-° ඬ⃟💵 _${usedPrefix}verificar_
-° ඬ⃟💵 _${usedPrefix}unreg *<numero de serie>*_
+° ඬ⃟   _${usedPrefix}balance_
+° ඬ⃟   _${usedPrefix}claim_
+° ඬ⃟   _${usedPrefix}top_
+° ඬ⃟   _${usedPrefix}levelup_
+° ඬ⃟   _${usedPrefix}myns_
+° ඬ⃟   _${usedPrefix}perfil_
+° ඬ⃟   _${usedPrefix}work_
+° ඬ⃟   _${usedPrefix}minar_
+° ඬ⃟   _${usedPrefix}buy_
+° ඬ⃟   _${usedPrefix}buyall_
+° ඬ⃟   _${usedPrefix}transfer *<tipo> <cantidad> <@tag>*_
+° ඬ⃟   _${usedPrefix}verificar_
+° ඬ⃟   _${usedPrefix}unreg *<numero de serie>*_
 
 *<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
 
