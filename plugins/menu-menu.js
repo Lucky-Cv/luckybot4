@@ -309,47 +309,47 @@ let str = `
 ° ඬ⃟   _{usedPrefix}ytsearch *<texto>*_
 
 *« BUSCADORES »* 
-*- 𝙴𝚂𝙲𝚁𝙸𝙱𝙴 𝙻𝙰𝚂 𝚂𝙸𝙶𝚄𝙸𝙴𝙽𝚃𝙴𝚂 𝙿𝙰𝙻𝙰𝙱𝚁𝙰𝚂 𝙾 𝙵𝚁𝙰𝚂𝙴𝚂 𝚂𝙸𝙽 𝙽𝙸𝙽𝙶𝚄𝙽 𝙿𝚁𝙴𝙵𝙸𝙹𝙾 (#, /, *, .)* 
+*- 𝙴𝚜𝚌𝚛𝚒𝚋𝚎 𝚕𝚊𝚜 𝚜𝚒𝚐𝚞𝚒𝚎𝚗𝚝𝚎𝚜 𝚙𝚊𝚕𝚊𝚋𝚛𝚊𝚜 𝚘 𝚏𝚛𝚊𝚜𝚎𝚜 𝚜𝚒𝚗 𝚗𝚒𝚗𝚐𝚞́𝚗 𝚙𝚛𝚎𝚏𝚒𝚓𝚘  (#, /, *, .)* 
 _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 
-° ඬ⃟🔊 _Quien es tu sempai botsito 7w7_
-° ඬ⃟🔊 _Te diagnostico con gay_
-° ඬ⃟🔊 _A nadie le importa_
-° ඬ⃟🔊 _Fiesta del admin_
-° ඬ⃟🔊 _Fiesta del administrador_ 
-° ඬ⃟🔊 _Vivan los novios_
-° ඬ⃟🔊 _Feliz cumpleaños_
-° ඬ⃟🔊 _Noche de paz_
-° ඬ⃟🔊 _Buenos dias_
-° ඬ⃟🔊 _Buenos tardes_
-° ඬ⃟🔊 _Buenos noches_
-° ඬ⃟🔊 _Audio hentai_
-° ඬ⃟🔊 _Chica lgante_
-° ඬ⃟🔊 _Feliz navidad_
-° ඬ⃟🔊 _Vete a la vrg_
-° ඬ⃟🔊 _Pasa pack Bot_
-° ඬ⃟🔊 _Atencion grupo_
-° ඬ⃟🔊 _Marica quien_
-° ඬ⃟🔊 _Murio el grupo_
-° ඬ⃟🔊 _Oh me vengo_
-° ඬ⃟🔊 _Viernes_
-° ඬ⃟🔊 _Baneado_
-° ඬ⃟🔊 _Sexo_
-° ඬ⃟🔊 _Hola_
-° ඬ⃟🔊 _Un pato_
-° ඬ⃟🔊 _Nyanpasu_
-° ඬ⃟🔊 _Te amo_
-° ඬ⃟🔊 _Yamete_
-° ඬ⃟🔊 _Bañate_
-° ඬ⃟🔊 _Es puto_
-° ඬ⃟🔊 _La biblia_
-° ඬ⃟🔊 _Onichan_
-° ඬ⃟🔊 _Mierda de Bot_
-° ඬ⃟🔊 _Siuuu_
-° ඬ⃟🔊 _Rawr_
-° ඬ⃟🔊 _UwU_
-° ඬ⃟🔊 _:c_
-° ඬ⃟🔊 _a_
+° ඬ⃟   _Quien es tu sempai botsito 7w7_
+° ඬ⃟   _Te diagnostico con gay_
+° ඬ⃟   _A nadie le importa_
+° ඬ⃟   _Fiesta del admin_
+° ඬ⃟   _Fiesta del administrador_ 
+° ඬ⃟   _Vivan los novios_
+° ඬ⃟   _Feliz cumpleaños_
+° ඬ⃟   _Noche de paz_
+° ඬ⃟   _Buenos dias_
+° ඬ⃟   _Buenos tardes_
+° ඬ⃟   _Buenos noches_
+° ඬ⃟   _Audio hentai_
+° ඬ⃟   _Chica lgante_
+° ඬ⃟   _Feliz navidad_
+° ඬ⃟   _Vete a la vrg_
+° ඬ⃟   _Pasa pack Bot_
+° ඬ⃟   _Atencion grupo_
+° ඬ⃟   _Marica quien_
+° ඬ⃟   _Murio el grupo_
+° ඬ⃟   _Oh me vengo_
+° ඬ⃟   _Viernes_
+° ඬ⃟   _Baneado_
+° ඬ⃟   _Sexo_
+° ඬ⃟   _Hola_
+° ඬ⃟   _Un pato_
+° ඬ⃟   _Nyanpasu_
+° ඬ⃟   _Te amo_
+° ඬ⃟   _Yamete_
+° ඬ⃟   _Bañate_
+° ඬ⃟   _Es puto_
+° ඬ⃟   _La biblia_
+° ඬ⃟   _Onichan_
+° ඬ⃟   _Mierda de Bot_
+° ඬ⃟   _Siuuu_
+° ඬ⃟   _Rawr_
+° ඬ⃟   _UwU_
+° ඬ⃟   _:c_
+° ඬ⃟   _a_
 
 *<ℍ𝔼ℝℝ𝔸𝕄𝕀𝔼ℕ𝕋𝔸𝕊/>*
 
