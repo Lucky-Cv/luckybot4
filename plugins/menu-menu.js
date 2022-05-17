@@ -127,31 +127,31 @@ let str = `
 ° ඬ⃟   _${usedPrefix}enable *autosticker*_
 ° ඬ⃟   _${usedPrefix}disable *autosticker*_
 
-*<ℝ𝔼ℙ𝕆ℝ𝕋𝔼𝕊 𝔻𝔼 𝔽𝔸𝕃𝕃𝕆𝕊/>*
+*« REPORTES DE FALLOS »*
 
-° ඬ⃟🔰 _${usedPrefix}reporte *<texto>*_
+° ඬ⃟🚨 _${usedPrefix}reporte *<texto>*_
 
-*<𝔻𝔼𝕊ℂ𝔸ℝ𝔾𝔸𝕊/>*
+*« DESCARGAS »*
 
-° ඬ⃟📥 _${usedPrefix}facebook *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}mediafire *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}instagram *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}gitclone *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}tiktok *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp3 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}ytmp4 *<enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.1 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play.2 *<texto / enlace / link / url>*_
-° ඬ⃟📥 _${usedPrefix}play *<texto>*_
-° ඬ⃟📥 _${usedPrefix}spotify *<texto>*_
-° ඬ⃟📥 _${usedPrefix}imagen *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pinteret *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper *<texto>*_
-° ඬ⃟📥 _${usedPrefix}wallpaper2 *<texto>*_
-° ඬ⃟📥 _${usedPrefix}pptiktok *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}igstalk *<nombre de usuario>*_
-° ඬ⃟📥 _${usedPrefix}tiktokstalk *<nombre de usuario>*_
+° ඬ⃟   _${usedPrefix}facebook *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}instagram *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}mediafire *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}instagram *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}gitclone *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}tiktok *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}ytmp3 *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}ytmp4 *<enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}play.1 *<texto / enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}play.2 *<texto / enlace / link / url>*_
+° ඬ⃟   _${usedPrefix}play *<texto>*_
+° ඬ⃟   _${usedPrefix}spotify *<texto>*_
+° ඬ⃟   _${usedPrefix}imagen *<texto>*_
+° ඬ⃟   _${usedPrefix}pinteret *<texto>*_
+° ඬ⃟   _${usedPrefix}wallpaper *<texto>*_
+° ඬ⃟   _${usedPrefix}wallpaper2 *<texto>*_
+° ඬ⃟   _${usedPrefix}pptiktok *<nombre de usuario>*_
+° ඬ⃟   _${usedPrefix}igstalk *<nombre de usuario>*_
+° ඬ⃟   _${usedPrefix}tiktokstalk *<nombre de usuario>*_
 
 *<𝔾ℝ𝕌ℙ𝕆𝕊/>* 
 
