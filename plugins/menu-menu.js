@@ -392,35 +392,35 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟   _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
 ° ඬ⃟   _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 
-*<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
+*« CREADOR »*
 
-° ඬ⃟👑 _${usedPrefix}cajafuerte_
-° ඬ⃟👑 _${usedPrefix}enable *restrict*_
-° ඬ⃟👑 _${usedPrefix}disable *restrict*_
-° ඬ⃟👑 _${usedPrefix}enable *autoread*_
-° ඬ⃟👑 _${usedPrefix}disable *autoread*_
-° ඬ⃟👑 _${usedPrefix}enable *public*_
-° ඬ⃟👑 _${usedPrefix}disable *public*_
-° ඬ⃟👑 _${usedPrefix}enable *pconly*_
-° ඬ⃟👑 _${usedPrefix}disable *pconly*_
-° ඬ⃟👑 _${usedPrefix}enable *gconly*_
-° ඬ⃟👑 _${usedPrefix}disable *gconly*_
-° ඬ⃟👑 _${usedPrefix}banchat2_
-° ඬ⃟👑 _${usedPrefix}unbanchat2_
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}unbanuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}banuser *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}bc *<texto>*_
-° ඬ⃟👑 _${usedPrefix}bcchats *<texto>*_
-° ඬ⃟👑 _${usedPrefix}bcgc *<texto>*_
-° ඬ⃟👑 _${usedPrefix}cleartpm_
-° ඬ⃟👑 _${usedPrefix}restart_
-° ඬ⃟👑 _${usedPrefix}update_
-° ඬ⃟👑 _${usedPrefix}addprem *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}delprem *<@tag>*_
-° ඬ⃟👑 _${usedPrefix}listprem_
-° ඬ⃟👑 _${usedPrefix}añadirdiamantes *<@tag> <cantidad>*_
-° ඬ⃟👑 _${usedPrefix}añadirxp *<@tag> <cantidad>*_
+° ඬ⃟   _${usedPrefix}cajafuerte_
+° ඬ⃟   _${usedPrefix}enable *restrict*_
+° ඬ⃟   _${usedPrefix}disable *restrict*_
+° ඬ⃟   _${usedPrefix}enable *autoread*_
+° ඬ⃟   _${usedPrefix}disable *autoread*_
+° ඬ⃟   _${usedPrefix}enable *public*_
+° ඬ⃟   _${usedPrefix}disable *public*_
+° ඬ⃟   _${usedPrefix}enable *pconly*_
+° ඬ⃟   _${usedPrefix}disable *pconly*_
+° ඬ⃟   _${usedPrefix}enable *gconly*_
+° ඬ⃟   _${usedPrefix}disable *gconly*_
+° ඬ⃟   _${usedPrefix}banchat2_
+° ඬ⃟   _${usedPrefix}unbanchat2_
+° ඬ⃟   _${usedPrefix}banuser *<@tag>*_
+° ඬ⃟   _${usedPrefix}unbanuser *<@tag>*_
+° ඬ⃟   _${usedPrefix}banuser *<@tag>*_
+° ඬ⃟   _${usedPrefix}bc *<texto>*_
+° ඬ⃟   _${usedPrefix}bcchats *<texto>*_
+° ඬ⃟   _${usedPrefix}bcgc *<texto>*_
+° ඬ⃟   _${usedPrefix}cleartpm_
+° ඬ⃟   _${usedPrefix}restart_
+° ඬ⃟   _${usedPrefix}update_
+° ඬ⃟   _${usedPrefix}addprem *<@tag>*_
+° ඬ⃟   _${usedPrefix}delprem *<@tag>*_
+° ඬ⃟   _${usedPrefix}listprem_
+° ඬ⃟   _${usedPrefix}añadirdiamantes *<@tag> <cantidad>*_
+° ඬ⃟   _${usedPrefix}añadirxp *<@tag> <cantidad>*_
 `.trim()
 conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
 ['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
