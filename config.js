@@ -63,8 +63,8 @@ global.APIKeys = { // APIKey Here
 global.packname = '(☞ﾟ∀ﾟ)☞'
 global.author = '༺𝒍𝒖𝒄𝒌𝒚𝒃𝒐𝒕༻'
 
-global.wm = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
-global.igfg = '★𝚃𝚑𝚎 𝙼𝚢𝚜𝚝𝚒𝚌 - 𝙱𝚘𝚝★'
+global.wm = '༺𝒍𝒖𝒄𝒌𝒚𝒃𝒐𝒕༻'
+global.igfg = '༺𝒍𝒖𝒄𝒌𝒚𝒃𝒐𝒕༻'
 global.wait = '*⌛ _Cargando..._ ▬▬▬▭*'
 
 global.multiplier = 9999 // The higher, The harder levelup
