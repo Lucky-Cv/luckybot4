@@ -422,10 +422,10 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟   _${usedPrefix}añadirdiamantes *<@tag> <cantidad>*_
 ° ඬ⃟   _${usedPrefix}añadirxp *<@tag> <cantidad>*_
 `.trim()
-conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/BrunoSobrino/TheMystic-Bot-MD', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
-['📮 𝙳𝙾𝙽𝙰𝚁 📮', '/donasi'],
-['🌹 𝙾𝚆𝙽𝙴𝚁 🌹', '/owner'],
-['🐾 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 🐾', '/infobot']
+conn.sendHydrated(m.chat, str, wm, pp, 'https://github.com/Valenciahack/luckybot4', '𝙶𝙸𝚃𝙷𝚄𝙱', null, null, [
+[' 𝙳𝙾𝙽𝙰𝚁 ', '/donasi'],
+[' 𝙾𝚆𝙽𝙴𝚁 ', '/owner'],
+[' 𝙸𝙽𝙵𝙾𝙱𝙾𝚃 ', '/infobot']
 ], m,)
 await conn.sendFile(m.chat, vn, 'menu.mp3', null, m, true, {
 type: 'audioMessage', 
