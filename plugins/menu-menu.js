@@ -379,18 +379,18 @@ _(𝑢𝑠𝑜 𝑠𝑖𝑛 𝑝𝑟𝑒𝑓𝑖𝑗𝑜)_
 ° ඬ⃟   _${usedPrefix}verificar_
 ° ඬ⃟   _${usedPrefix}unreg *<numero de serie>*_
 
-*<𝕊𝕋𝕀ℂ𝕂𝔼ℝ𝕊/>*
+*« STICKERS »*
 
-° ඬ⃟👽 _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
-° ඬ⃟👽 _${usedPrefix}attp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}ttp *<texto>*_
-° ඬ⃟👽 _${usedPrefix}pat *<@tag>_
-° ඬ⃟👽 _${usedPrefix}slap *<@tag>_
-° ඬ⃟👽 _${usedPrefix}kiss *<@tag>*_
-° ඬ⃟👽 _${usedPrefix}dado_
-° ඬ⃟👽 _${usedPrefix}wm *<packname> <author>*_
-° ඬ⃟👽 _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
-° ඬ⃟👽 _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
+° ඬ⃟   _${usedPrefix}emojimix *<emoji 1>&<emoji 2>*_
+° ඬ⃟   _${usedPrefix}attp *<texto>*_
+° ඬ⃟   _${usedPrefix}ttp *<texto>*_
+° ඬ⃟   _${usedPrefix}pat *<@tag>_
+° ඬ⃟   _${usedPrefix}slap *<@tag>_
+° ඬ⃟   _${usedPrefix}kiss *<@tag>*_
+° ඬ⃟   _${usedPrefix}dado_
+° ඬ⃟   _${usedPrefix}wm *<packname> <author>*_
+° ඬ⃟   _${usedPrefix}stickermarker *<efecto> <responder a imagen>*_
+° ඬ⃟   _${usedPrefix}stickerfilter *<efecto> <responder a imagen>*_
 
 *<𝕆𝕎ℕ𝔼ℝ 𝕐 𝕄𝕆𝔻𝔼ℝ𝔸𝔻𝕆ℝ𝔼𝕊/>*
 
