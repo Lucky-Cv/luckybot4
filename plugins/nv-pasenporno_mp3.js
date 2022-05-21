@@ -11,6 +11,10 @@ type: 'audioMessage',
 ptt: true 
 })
 }
-handler.customPrefix = /Pasen porno|porno/
+handler.customPrefix = /Pasen porno/
 handler.command = new RegExp
+
+handler.fail = null
+
+handler.exp = 100
 export default handler
