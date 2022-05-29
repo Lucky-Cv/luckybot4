@@ -9,7 +9,7 @@ import util from 'util'
  ptt: true  
  }) 
  } 
- handler.customPrefix = /Por favor|por favor/porfa/porfavor
+ handler.customPrefix = /Por favor|por favor/porfa/
  handler.command = new RegExp 
  handler.fail = null 
  handler.exp = 100 
