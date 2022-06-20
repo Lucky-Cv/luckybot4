@@ -1,7 +1,6 @@
 
 ### `—◉ ⚙️ AJUSTES ⚙️`
 - CLONAR EL REPOSITORIO [Aqui](https://github.com/Valenciahack/luckybot4 )
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/Valenciahack/luckybot4/blob/master/config.js)
 
 ### `—◉ 👾 ACTIVAR EN TERMUX 👾`
 ```bash
